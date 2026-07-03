@@ -245,7 +245,7 @@ Answer / Summary
 
 ###  Generated Summary
 
-![Generated Summary](docs/screenshots/summary.png)
+![Generated Summary](docs/screenshots/Summary.png)
 
 ---
 
