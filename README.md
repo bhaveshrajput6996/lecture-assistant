@@ -229,6 +229,36 @@ Answer / Summary
 
 ---
 
+##  Application Screenshots
+
+###  Home Page
+
+![Home Page](docs/screenshots/home.png)
+
+---
+
+###  Upload Audio
+
+![Upload Audio](docs/screenshots/upload.png)
+
+---
+
+###  Generated Summary
+
+![Generated Summary](docs/screenshots/summary.png)
+
+---
+
+###  Chat Assistant
+
+![Chat Assistant](docs/screenshots/chat.png)
+
+---
+
+###  Swagger API
+
+![Swagger API](docs/screenshots/swagger.png)
+
 #  Future Improvements
 
 - User Authentication
