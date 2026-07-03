@@ -1,0 +1,47 @@
+# Python
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+
+venv/
+env/
+
+# VS Code
+
+.vscode/
+
+# Environment Variables
+
+.env
+
+# Database
+
+*.db
+
+# Audio Storage
+
+storage/audio/
+
+# Chroma Database
+
+storage/chromadb/
+
+# Generated PDFs
+
+storage/pdf/
+
+# Summaries
+
+storage/summaries/
+
+# Transcripts
+
+storage/transcripts/
+
+# Logs
+
+*.log
