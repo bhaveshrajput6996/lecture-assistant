@@ -1,4 +1,4 @@
-# 🎓 Lecture Assistant
+#  Lecture Assistant
 
 An AI-powered Lecture Assistant that converts lecture audio into transcripts, generates concise summaries, and answers questions using Retrieval-Augmented Generation (RAG).
 
@@ -6,20 +6,20 @@ Built with **FastAPI**, **Whisper**, **Ollama**, **ChromaDB**, **Sentence Transf
 
 ---
 
-## ✨ Features
+##  Features
 
-- 🎤 Upload lecture audio files
-- 📝 Automatic speech-to-text transcription using Whisper
-- 📚 AI-generated lecture summaries
-- 💬 Ask questions about the lecture using RAG
-- 🧠 Local LLM inference using Ollama
-- 🔍 Semantic search with ChromaDB
-- ⚡ Modern Next.js frontend
-- 💾 MySQL database integration
+-  Upload lecture audio files
+-  Automatic speech-to-text transcription using Whisper
+-  AI-generated lecture summaries
+-  Ask questions about the lecture using RAG
+-  Local LLM inference using Ollama
+-  Semantic search with ChromaDB
+-  Modern Next.js frontend
+-  MySQL database integration
 
 ---
 
-## 🏗️ Tech Stack
+##  Tech Stack
 
 ### Backend
 - Python
@@ -39,7 +39,7 @@ Built with **FastAPI**, **Whisper**, **Ollama**, **ChromaDB**, **Sentence Transf
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 lecture_assistant/
@@ -73,7 +73,7 @@ lecture_assistant/
 
 ---
 
-# ⚙️ Installation
+#  Installation
 
 ## 1. Clone Repository
 
@@ -187,7 +187,7 @@ npm run dev
 
 ---
 
-# 🧠 System Architecture
+#  System Architecture
 
 ```
 Audio Upload
@@ -219,7 +219,7 @@ Answer / Summary
 
 ---
 
-# 📌 API Endpoints
+#  API Endpoints
 
 | Method | Endpoint | Description |
 |---------|----------|-------------|
@@ -229,7 +229,7 @@ Answer / Summary
 
 ---
 
-# 🚀 Future Improvements
+#  Future Improvements
 
 - User Authentication
 - PDF Summary Export
@@ -242,7 +242,7 @@ Answer / Summary
 
 ---
 
-# 🤝 Contributing
+#  Contributing
 
 Contributions are welcome!
 
@@ -254,13 +254,13 @@ Contributions are welcome!
 
 ---
 
-# 📜 License
+#  License
 
 This project is licensed under the MIT License.
 
 ---
 
-# 👨‍💻 Author
+#  Author
 
 **Bhavesh Rajput**
 
